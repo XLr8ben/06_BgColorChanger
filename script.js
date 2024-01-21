@@ -24,6 +24,7 @@ const stopChangingColor = function () {
 };
 const resetChangingColor = function () {
     document.body.style.backgroundColor = '#212121';
+    clearInterval(intervalID);
     intervalID = null;
 };
 
