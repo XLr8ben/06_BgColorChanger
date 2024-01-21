@@ -1,0 +1,16 @@
+button {
+    background-color: grey;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+    border-style: none;
+    margin-top: 5px;
+    display: inline-block;
+    margin: 12px;
+  }
+  div {
+    margin-left: 150px;
+    margin-top: 200px;
+  }
